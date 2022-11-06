@@ -1,0 +1,16 @@
+# This is a restricted CloudCannon config, that only exposes
+# the posts collection for editing. To use this config instead of the default:
+#
+# - Navigate to the build settings of the site you would like to restrict
+# - Set the CLOUDCANNON_CONFIG_PATH environment variable to cloudcannon.restricted.config.yml
+#
+# Since the whole file is swapped, any other CloudCannon configuration
+# will need to be written in both files.
+#
+# Alternatively, a CloudCannon prebuild bash script could be written
+# that modifies an existing config file to change the `collection_groups` settings.
+
+collection_groups:
+  - heading: Website
+    collections:
+      - posts

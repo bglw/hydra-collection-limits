@@ -1,0 +1,9 @@
+# This is the default CloudCannon config that will be used,
+# that exposes all site collections for editing.
+
+collection_groups:
+  - heading: Website
+    collections:
+      - posts
+      - data
+      - pages

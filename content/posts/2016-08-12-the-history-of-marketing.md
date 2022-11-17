@@ -9,7 +9,7 @@ The beginnings of digital marketing technology can be traced back to the 1980's,
 
 {{< gist "bglw" "eac44805d52af1a39d3de543665061d5" >}}
 
-![Man](https://source.unsplash.com/random/1500x1146)
+![Man](https://images.unsplash.com/photo-1668414308071-93879c365942?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=1146&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODY2MTk1Mw&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1500)
 
 The history of marketing is to a large extent a product of Internet's history as markets have adapted to keep abreast of changes and keep up with the way the major Search Engines rank web pages. Major changes include, in chronological order:
 
